@@ -1,0 +1,7 @@
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\bin\Debug\Assignment_One_B.exe.config
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\bin\Debug\Assignment_One_B.exe
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\bin\Debug\Assignment_One_B.pdb
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\obj\Debug\Assignment_One_B.csprojResolveAssemblyReference.cache
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\obj\Debug\Assignment_One_B.csproj.CoreCompileInputs.cache
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\obj\Debug\Assignment_One_B.exe
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_One_B\Assignment_One_B\obj\Debug\Assignment_One_B.pdb

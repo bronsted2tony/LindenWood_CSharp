@@ -1,0 +1,10 @@
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\bin\Debug\Assignment_one.exe.config
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\bin\Debug\Assignment_one.exe
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\bin\Debug\Assignment_one.pdb
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.csprojResolveAssemblyReference.cache
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.Form1.resources
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.Properties.Resources.resources
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.csproj.GenerateResource.cache
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.csproj.CoreCompileInputs.cache
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.exe
+C:\Users\aackah-nyanzu\source\repos\CSharp\Assignment_one\Assignment_one\obj\Debug\Assignment_one.pdb
